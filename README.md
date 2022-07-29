@@ -10,5 +10,5 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="files/banglades
     <a href="https://facebook.com/MdFahad.index"><img src="files/facebook.svg" style="max-width:100%"></a>
     <a href="https://www.linkedin.com/in/mohammad-fahad-b148a719a/"><img src="files/linkedin.svg" style="max-width:100%"></a>
     <a href="https://twitter.com/bd_fahad"><img src="files/twitter.svg" style="max-width:100%"></a>
-    <a href="https://www.instagram.com/fahad4bangladesh/?hl=en"><img src="files/insagram.svg" style="max-width:100%"></a>
+    <a href="https://www.instagram.com/fahad4bangladesh/?hl=en"><img src="files/instagram.svg" style="max-width:100%"></a>
 </div>
