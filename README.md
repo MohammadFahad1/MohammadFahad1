@@ -2,8 +2,8 @@
 <br>
 <h2>Hello, Dear Friend</h2>
 <hr>
-<p>
-I'm Sumit, a Full Stack Web Application Developer from <img src="files/bangladesh.png" width="18" height="100%"> Bangladesh. I Spend most of time coding outstanding projects.
+<p style="vertical-align:middle;">
+I'm Fahad, a Full Stack Web Application Developer from <img src="files/bangladesh.png" width="18" height="100%"> Bangladesh. I Spend most of time coding outstanding projects.
 </p>
 <p><img src="files/tea.png" width="22" height="100%"> Connet with me!</p>
 <div>
