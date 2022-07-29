@@ -14,8 +14,8 @@ I'm Fahad, a Full Stack Web Application Developer from <img src="files/banglades
 
 <h3>Things I code with:</h3>
 <div>
-    <a href="javascript:void(0)"><img src="files/php.png" style="max-height:30px"></a>
-    <a href="javascript:void(0)"><img src="files/laravel.png" style="max-height:30px"></a>
+    <a href="javascript:void(0)"><img src="files/php.png" height="30"></a>
+    <a href="javascript:void(0)"><img src="files/laravel.png" height="30"></a>
     <a href="javascript:void(0)"><img src="files/javascript.svg" style="max-width:100%"></a>
     <a href="javascript:void(0)"><img src="files/typescript.svg" style="max-width:100%"></a>
     <a href="javascript:void(0)"><img src="files/reactjs.svg" style="max-width:100%"></a>
