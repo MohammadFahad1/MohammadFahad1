@@ -1,4 +1,4 @@
-<p><img src="files/me.png"></p>
+<p><img src="files/me.jpg"></p>
 <br>
 <h2>Hello, Dear Friend</h2>
 <p>
