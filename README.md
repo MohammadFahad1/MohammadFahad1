@@ -15,7 +15,7 @@
 
 - 🤝 I’m seeking help for my **ride sharing app project**
 
-- 👨‍💻 All of my projects are available at [https://fahadbd.#####](https://fahadbd.#####)
+- 👨‍💻 All of my projects are available at [https://fahadbd.com](https://fahadbd.com/)
 
 - 💬 Ask me about **React, Nextjs, NodeJs, ExpressJs, Mongodb, Prisma, GraphQL, Redux, Front End or Back End related issues!**
 
