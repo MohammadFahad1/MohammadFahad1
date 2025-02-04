@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/bd_fahad" target="blank"><img src="https://img.shields.io/twitter/follow/bd_fahad?logo=twitter&style=for-the-badge" alt="bd_fahad" /></a> </p>
 
+- 🎓 I’m currently studying about **Computer Science and Engineering** at Green University of Bangladesh.
+
+- 🎓 Previously i've completed a 4 year long Diploma in **Computer Engineering** course under BTEB from Cox's Bazar Polytechnic Institute.
+  
 - 🔭 I’m currently working on **a ride sharing web app**
 
 - 🌱 I’m currently learning **C, C++, Java and DSA**
