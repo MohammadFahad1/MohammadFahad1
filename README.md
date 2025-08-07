@@ -13,7 +13,7 @@
   
 - 🔭 I’m currently working on **a ride sharing web app**
 
-- 🌱 I’m currently learning **C, C++, Java and DSA**
+- 🌱 I’m currently learning **C, C++, DSA, Python and Javascript**
 
 - 👯 I’m looking to collaborate on **different projects.**
 
