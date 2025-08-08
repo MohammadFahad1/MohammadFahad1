@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **React, Nextjs, NodeJs, ExpressJs, Mongodb, Prisma, GraphQL, Redux, Front End or Back End related issues!**
 
-- 📫 How to reach me **info@fahadbd.com**
+- 📫 How to reach me? Email: **info@fahadbd.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
