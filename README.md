@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fahadbd.com](https://fahadbd.com/)
 
-- 💬 Ask me about **React, Nextjs, NodeJs, ExpressJs, Mongodb, Prisma, GraphQL, Redux, Front End or Back End related issues!**
+- 💬 Ask me about **React, Nextjs, NodeJs, ExpressJs, Mongodb, Prisma, GraphQL, Redux, Python, Django, PostgreSQL, Front End or Back End related issues!**
 
 - 📫 How to reach me? Email: **info@fahadbd.com**
 
