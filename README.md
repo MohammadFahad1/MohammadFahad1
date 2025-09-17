@@ -11,13 +11,13 @@
 
 - 🎓 Previously i've completed a 4 year long Diploma in **Computer Engineering** course under BTEB from Cox's Bazar Polytechnic Institute.
   
-- 🔭 I’m currently working on **a ride sharing web app**
+- 🔭 I’m currently working on **a AI Based Job Recruitment platform web app**
 
-- 🌱 I’m currently learning **C, C++, DSA, Python and Javascript**
+- 🌱 I’m currently learning **Python and Django**
 
 - 👯 I’m looking to collaborate on **different projects.**
 
-- 🤝 I’m seeking help for my **ride sharing app project**
+- 🤝 I’m seeking help for my **AI Based Job Recruitment platform app project**
 
 - 👨‍💻 All of my projects are available at [https://fahadbd.com](https://fahadbd.com/)
 
