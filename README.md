@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **different projects.**
 
-- 🤝 I’m seeking help for my **AI Based Job Recruitment platform app project**
+- 🤝 I’m seeking help for my **SiOi Global Trades Website and software**
 
 - 👨‍💻 All of my projects are available at [https://fahadbd.com](https://fahadbd.com/)
 
