@@ -72,14 +72,20 @@ Under **Bangladesh Technical Education Board (BTEB)**
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFahad1&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight" height="160"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight" height="170"/>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight" height="160"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
