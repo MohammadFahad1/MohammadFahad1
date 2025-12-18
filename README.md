@@ -1,42 +1,42 @@
-# 👋 Hi, I'm Md. Fahad Monshi
+# 👋 Hi, I'm Md. Fahad Monshi  
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitors](https://img.shields.io/badge/Visitors-10,000%2B-brightgreen)
 
 🚀 **Full Stack Software Developer**  
-💻 Passionate about building scalable web applications and clean REST APIs  
-🌱 Constantly learning and improving
+💻 Passionate about building scalable web applications & REST APIs  
+🌱 Always learning, improving, and building
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a dedicated **Software Developer** with strong experience in modern web technologies and backend systems. I enjoy solving real-world problems through clean code, well-structured APIs, and user-friendly interfaces.
+I’m a **Full Stack Software Developer** with hands-on experience in modern frontend frameworks and powerful backend systems.  
+I love turning ideas into real-world products using **clean code, scalable architecture, and efficient APIs**.
 
-I work primarily with **JavaScript and Python ecosystems**, building full-stack applications using **React, Next.js, Django, and REST APIs**.
+My main focus is on:
+- RESTful API development
+- Full-stack web applications
+- Performance & maintainability
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 🌐 Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- Bootstrap  
-- Tailwind CSS  
-- React.js  
-- Next.js  
-- TypeScript  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,next,ts" />
+</p>
 
 ### ⚙️ Backend
-- Node.js  
-- Python  
-- Django  
-- Django REST Framework (DRF)  
-- FastAPI  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,fastapi" />
+</p>
 
 ### 🗄️ Databases
-- MongoDB  
-- MySQL  
-- PostgreSQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
 ---
 
@@ -62,36 +62,50 @@ Under **Bangladesh Technical Education Board (BTEB)**
 
 📧 **Email:** info@fahadbd.com  
 
-Feel free to reach out for:
-- Collaboration
+📌 Open to:
+- Software development roles
 - Freelance projects
-- Internship / Job opportunities
+- Collaboration
 - Technical discussions
 
 ---
 
-## 📌 What I’m Working On
+## 📊 GitHub Stats
 
-- RESTful APIs using Django & FastAPI  
-- Scalable backend systems  
-- Full-stack applications with React & Next.js  
-- Clean architecture and best practices  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-## 📈 Goals
+## 🚀 What I’m Currently Working On
+
+- Django & FastAPI REST APIs  
+- Full-stack applications with React & Next.js  
+- Scalable backend architectures  
+- PostgreSQL & MongoDB powered systems  
+
+---
+
+## 🎯 Career Goals
 
 - Build impactful software products  
 - Contribute to open-source projects  
-- Grow as a backend & system-focused engineer  
-- Work on large-scale, real-world systems  
+- Grow as a backend-focused engineer  
+- Work on large-scale, production systems  
 
 ---
 
 ## 🤝 Let’s Connect
 
-If you like my work or want to collaborate, feel free to connect and explore my repositories ⭐
+⭐ If you like my work, consider starring my repositories  
+🤝 Always open to collaboration and learning together  
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*
+✨ *Thanks for visiting my GitHub profile!*
