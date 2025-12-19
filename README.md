@@ -72,22 +72,26 @@ Under **Bangladesh Technical Education Board (BTEB)**
 
 ## 📊 GitHub Stats
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight" height="170"/>
-      </p>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight"
+        height="170"
+      />
     </td>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight" height="160"/>
-      </p>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight"
+        height="160"
+      />
     </td>
-    <td>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFahad1&theme=tokyonight&hide_border=false" />
-      </p>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFahad1&theme=tokyonight&hide_border=false"
+      />
     </td>
   </tr>
 </table>
