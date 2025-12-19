@@ -74,6 +74,13 @@ Under **Bangladesh Technical Education Board (BTEB)**
 
 <table width="100%">
   <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFahad1&theme=tokyonight&hide_border=false"
+      />
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight"
@@ -84,13 +91,6 @@ Under **Bangladesh Technical Education Board (BTEB)**
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight"
         height="160"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadFahad1&theme=tokyonight&hide_border=false"
       />
     </td>
   </tr>
