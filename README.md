@@ -82,13 +82,13 @@ Under **Bangladesh Technical Education Board (BTEB)**
     <td width="50%" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight"
-        height="170"
+        height="200"
       />
     </td>
     <td width="50%" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight"
-        height="160"
+        height="200"
       />
     </td>
   </tr>
