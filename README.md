@@ -75,15 +75,12 @@ Under **Bangladesh Technical Education Board (BTEB)**
 <table width="100%">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=MohammadFahad1&theme=tokyonight&hide_border=true"/>
+      ![GitHub Streak](https://streak-stats.demolab.com?user=MohammadFahad1&theme=tokyonight&hide_border=true)
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight"
-        height="200"
-      />
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight)
     </td>
     <td width="50%" align="center">
       <img
