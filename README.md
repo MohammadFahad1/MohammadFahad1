@@ -75,10 +75,7 @@ Under **Bangladesh Technical Education Board (BTEB)**
 <table width="100%">
   <tr>
     <td colspan="2" align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=MohammadFahad1&theme=tokyonight&hide_border=true"
-        height="200"
-      />
+      ![Your GitHub stats](github-readme-stats.vercel.app)
     </td>
   </tr>
   <tr>
