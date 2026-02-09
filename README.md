@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Md. Fahad Monshi  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer;Django+%7C+React+%7C+DRF+%7C+PostgreSQL;Open-Source+Enthusiast;Problem+Solver;Always+learning+new+tech!">
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohammadFahad1&label=Profile%20Views&color=0e75b6&style=flat)
 ![Visitors](https://img.shields.io/badge/Visitors-10,000%2B-brightgreen)
