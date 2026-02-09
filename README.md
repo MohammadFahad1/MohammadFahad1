@@ -80,10 +80,10 @@ Under **Bangladesh Technical Education Board (BTEB)**
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anis191&show_icons=true&theme=tokyonight" />
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight" />
     </td>
     <td width="50%" align="center">
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anis191&layout=compact&theme=tokyonight" />
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
