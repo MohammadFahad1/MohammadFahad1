@@ -42,6 +42,20 @@ My main focus is on:
 </p>
 
 ---
+## 💼 Work Experience
+
+### **Backend Developer** | Join Venture AI (Betopia Group)
+*Feb 2026 – Present*
+* Developing and maintaining scalable backend services using Django Rest Framework.
+* Optimizing database queries and implementing custom API architectures.
+
+---
+
+### **Assistant Computer Programmer** | Ahmed Bawany Academy School and College
+*Jan 2020 – Jan 2026 (6 Years)*
+* Managed institutional databases and developed internal software solutions.
+* Provided technical support and maintained the college’s computer systems.
+---
 
 ## 🎓 Education
 
