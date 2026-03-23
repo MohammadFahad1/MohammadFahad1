@@ -77,7 +77,7 @@ Under **Bangladesh Technical Education Board (BTEB)**
 
 ## 📫 Contact Me
 
-📧 **Email:** info@fahadbd.com  
+📧 **Email:** fahad4bangladesh@gmail.com  
 
 📌 Open to:
 - Software development roles
