@@ -92,7 +92,7 @@ Under **Bangladesh Technical Education Board (BTEB)**
 <table width="100%">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=MohammadFahad1&theme=blue-green" />
+      <img src="https://streak-stats.demolab.com?user=MohammadFahad1&theme=tokyonight" />
     </td>
   </tr>
   <tr>
