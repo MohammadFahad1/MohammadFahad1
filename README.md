@@ -103,9 +103,12 @@ Under **Bangladesh Technical Education Board (BTEB)**
       <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img alt="MohammadFahad1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MohammadFahad1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    </td>
+  </tr>
 </table>
-
-<img alt="MohammadFahad1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MohammadFahad1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ---
 
