@@ -92,7 +92,7 @@ Under **Bangladesh Technical Education Board (BTEB)**
 <table width="100%">
   <tr>
     <td colspan="2" align="center">
-      ![Your GitHub stats](github-readme-stats.vercel.app)
+      <img src="https://vercel.app" alt="My GitHub Stats" />
     </td>
   </tr>
   <tr>
