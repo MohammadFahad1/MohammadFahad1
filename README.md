@@ -105,7 +105,7 @@ Under **Bangladesh Technical Education Board (BTEB)**
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img alt="MohammadFahad1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MohammadFahad1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+      <img alt="MohammadFahad1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MohammadFahad1&bg_color=1b1b27&color=72a6fd&line=ac92db&point=FFFFFF&hide_border=true" />
     </td>
   </tr>
 </table>
