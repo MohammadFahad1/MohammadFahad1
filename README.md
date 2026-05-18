@@ -24,6 +24,20 @@ My main focus is on:
 
 ---
 
+## 🎥 My YouTube Channel — The Root Cause
+🔥 **What You'll Find There**
+- AI & Emerging Technology
+- Tech Explanations & Insights
+- Productivity & Digital Systems
+- Deep-Dive Analysis
+- Developer & Tech Career Content
+- The "Root Cause" behind modern trends
+
+📺 Subscribe Here:
+👉 https://www.youtube.com/@therootcause.official
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### 🌐 Frontend
