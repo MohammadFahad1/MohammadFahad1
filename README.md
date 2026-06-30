@@ -58,7 +58,7 @@ My main focus is on:
 ---
 ## 💼 Work Experience
 
-### **Backend Developer (Python/Django)** | Join Venture AI (Betopia Group)
+### **Jr. Backend Developer (Python/Django)** | Join Venture AI (Betopia Group)
 *Feb 2026 – Present*
 * Developing and maintaining scalable backend services using Django Rest Framework.
 * Optimizing database queries and implementing custom API architectures.
