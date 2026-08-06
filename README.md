@@ -143,9 +143,16 @@ Under *BTEB (Bangladesh Technical Education Board)*
 </table>
 
 ## 📊 GitHub Analytics
-
-![](https://streak-stats.demolab.com?user=MohammadFahad1&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td>
+      ![](https://streak-stats.demolab.com?user=MohammadFahad1&theme=tokyonight&hide_border=true)
+    </td>
+    <td>
+      ![](https://github-readme-stats-sigma-five.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight&hide_border=true)
+    </td>
+  </tr>
+</table>
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight&hide_border=true)
 
