@@ -153,9 +153,11 @@ Under *BTEB (Bangladesh Technical Education Board)*
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td style="width:20%"></td>
+    <td style="width:60%">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
+    <td style="width:20%"></td>
   </tr>
 </table>
 
