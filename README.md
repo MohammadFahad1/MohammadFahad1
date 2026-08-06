@@ -149,12 +149,15 @@ Under *BTEB (Bangladesh Technical Education Board)*
       <img src="https://streak-stats.demolab.com?user=MohammadFahad1&theme=tokyonight&hide_border=true" width="100%" alt="Current Streak Stats" />
     </td>
     <td style="width:50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="Current Streak Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammadFahad1&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="Current Github Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight&hide_border=true)
 
 ![MohammadFahad1's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=MohammadFahad1&bg_color=1a1b26&color=70a5fd&line=b4f9f8&point=FFFFFF&hide_border=true)
 
