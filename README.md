@@ -157,11 +157,10 @@ Under *BTEB (Bangladesh Technical Education Board)*
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight&hide_border=true" class="display:block;margin-left:auto;margin-right:auto" alt="Top Languages" />
     </td>
     <td style="width:50%">
-      <img src="" class="display:block;margin-left:auto;margin-right:auto" alt="Top Languages Used Statistics" />
+      <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=MohammadFahad1&theme=ubuntu&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit" class="display:block;margin-left:auto;margin-right:auto" alt="About Me" />
     </td>
   </tr>
 </table>
-
 ![MohammadFahad1's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=MohammadFahad1&bg_color=1a1b26&color=70a5fd&line=b4f9f8&point=FFFFFF&hide_border=true)
 
 ## 🤝 Connect With Me
