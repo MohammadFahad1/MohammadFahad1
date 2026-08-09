@@ -161,7 +161,6 @@ Under *BTEB (Bangladesh Technical Education Board)*
     </td>
   </tr>
 </table>
-![MohammadFahad1's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=MohammadFahad1&bg_color=1a1b26&color=70a5fd&line=b4f9f8&point=FFFFFF&hide_border=true)
 
 ## 🤝 Connect With Me
 
