@@ -157,7 +157,7 @@ Under *BTEB (Bangladesh Technical Education Board)*
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammadFahad1&layout=compact&theme=tokyonight&hide_border=true" class="display:block;margin-left:auto;margin-right:auto" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github.com/MohammadFahad1/github-stats/blob/generated/overview.svg#gh-dark-mode-only" class="display:block;margin-left:auto;margin-right:auto" alt="Top Languages Used Statistics" />
+      <img src="./files/Screenshot from 2026-08-09 08-30-25.png" class="display:block;margin-left:auto;margin-right:auto" alt="Top Languages Used Statistics" />
     </td>
   </tr>
 </table>
