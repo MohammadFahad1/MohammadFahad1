@@ -58,7 +58,7 @@ I’m a passionate **Full-Stack Software Developer** with hands-on experience bu
 </td>
 <td width="60%" valign="top">
 
-## 🎥 YouTube Channel- The Root Cause
+## 🎥 YouTube Channel - The Root Cause
 
 I create deep-dive technical videos, AI insights, and developer productivity guides on my channel.
 
