@@ -75,11 +75,13 @@ I create deep-dive technical videos, AI insights, and developer productivity gui
 </tr>
 </table>
 
-## 💼 Work Experience
+## 💼 Experience & Education
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+### 💼 Work Experience
 
 #### 🚀 Jr. Backend Developer (Python/Django)
 **Join Venture AI** • *Feb 2026 – Present*
